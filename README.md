@@ -6,7 +6,8 @@ Aquí en mi perfil de GitHub, encontrarás varios proyectos en los que estoy tra
 Actualmente me encuentro aprendiendo: 
 - **Machine Learning** (python con librerias como `numpy`, `pandas`, `matplotlib`,etc).
 - **Gestión y Administración de Redes** (principalmente linux).
-- **Fundamentos de la ingenieria de software**. y creacion de un compilador con nu nuevo lenguaje de programación de igual manera llevar la metdodologia correcta.
+- **Fundamentos de la ingenieria de software**.
+- **Creacion de un compilador** desarrollando consigo un nuevo *lenguaje de programación* de igual manera llevar la metododologia correcta.
 
 Me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, asi como un modelo de arquitectura. Este proyecto es realizado mediante la materia de Fundametos de Ingenieria de Software.
 
