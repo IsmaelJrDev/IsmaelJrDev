@@ -3,7 +3,7 @@ Soy Ismael Bibiano Martínez, Técnico en Programación, egresado del Colegio de
 
 Aquí en mi perfil de GitHub, encontrarás varios proyectos en los que estoy trabajando y contribuyendo. Desde pequeños retos de programación hasta proyectos más complejos, cada uno de ellos representa una oportunidad para aplicar lo que he aprendido durante mi formación profesional y mi aprendizaje siendo autodidacta tomando algunos cursos de plataformas digitales.
 
-Actualmente me encuentro aprendiendo **machine learning** (python con librerias como numpy, pandas, matplotlib,etc), gestión y administración de redes (principalmente linux), fundamentos de la ingenieria de software, aprendizaje del lenguaje ensamblador y creacion de un compilador con nu nuevo lenguaje de programación de igual manera llevar la metdodologia correcta.
+Actualmente me encuentro aprendiendo **machine learning** (python con librerias como `numpy`, `pandas`, `matplotlib`,etc), **gestión y administración de redes** (principalmente linux), fundamentos de la ingenieria de software, aprendizaje del lenguaje ensamblador y creacion de un compilador con nu nuevo lenguaje de programación de igual manera llevar la metdodologia correcta.
 
 Me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, asi como un modelo de arquitectura. Este proyecto es realizado mediante la materia de Fundametos de Ingenieria de Software.
 
