@@ -8,6 +8,8 @@ Actualmente me encuentro aprendiendo:
 - **Gestión y Administración de Redes** (principalmente linux).
 - **Fundamentos de la ingenieria de software**.
 - **Creacion de un compilador** desarrollando consigo un nuevo *lenguaje de programación* de igual manera llevar la metododologia correcta.
+- **Desarrollo Web**.
+- **Bases de datos** con `MySQL` 
 
 Me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, asi como un modelo de arquitectura. Este proyecto es realizado mediante la materia de Fundametos de Ingenieria de Software.
 
