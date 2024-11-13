@@ -7,7 +7,7 @@ Actualmente me encuentro aprendiendo:
 - **Machine Learning** (python con librerias como `numpy`, `pandas`, `matplotlib`,etc).
 - **Gestión y Administración de Redes** (principalmente linux).
 - **Fundamentos de la ingenieria de software**.
-- **Creacion de un compilador** desarrollando consigo un nuevo *lenguaje de programación* de igual manera llevar la metododologia correcta.
+- **Creacion de un compilador** desarrollando consigo un nuevo *lenguaje de programación*, de igual manera llevar la metododologia correcta.
 - **Desarrollo Web**.
 - **Bases de datos** con `MySQL`.
 
