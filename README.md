@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Ismael Bibiano Martínez, Técnico en Programación, egresado del Colegio de Estudios Científicos y Técnologicos del Estado de México, actualmente me encuentro en formacion profesional de la carrera de **Ingeniería en Sistemas Computacionales** en el Técnologico de Estudios Superiores de Jilotepec. Me apasiona el mundo de la programación y siempre estoy buscando nuevas formas de aprender y crecer en este campo que esta revolucionando.
+Soy Ismael Bibiano Martínez, Técnico en Programación, egresado del Colegio de Estudios Científicos y Técnologicos del Estado de México, actualmente me encuentro en formacion profesional de la carrera de **Ingeniería en Sistemas Computacionales** en el Técnologico de Estudios Superiores de Jilotepec. Me apasiona el mundo de la programación y siempre estoy buscando nuevas formas de aprender y crecer en este campo que esta revolucionando al mundo.
 
 Aquí en mi perfil de GitHub, encontrarás varios proyectos en los que estoy trabajando y contribuyendo. Desde pequeños retos de programación hasta proyectos más complejos, cada uno de ellos representa una oportunidad para aplicar lo que he aprendido durante mi formación profesional y mi aprendizaje siendo autodidacta tomando algunos cursos de plataformas digitales. 
 
