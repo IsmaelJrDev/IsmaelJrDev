@@ -6,7 +6,7 @@ Aquí en mi perfil de GitHub, encontrarás varios proyectos en los que estoy tra
 Actualmente me encuentro aprendiendo: 
 - **Machine Learning** (python con librerias como `numpy`, `pandas`, `matplotlib`,etc).
 - **Gestión y Administración de Redes** (principalmente linux).
-- **Fundamentos de la ingenieria de software**.
+- **Fundamentos de la Ingenieria de Software**.
 - **Creación de un compilador** desarrollando consigo un nuevo *lenguaje de programación*, de igual manera llevar la metododologia correcta.
 - **Desarrollo Web**.
 - **Bases de datos** con `MySQL`.
