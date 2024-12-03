@@ -9,7 +9,7 @@ Actualmente me encuentro aprendiendo:
 - **Fundamentos de la Ingenieria de Software**.
 - **Creación de un compilador** desarrollando consigo un nuevo *lenguaje de programación*, de igual manera llevar la metododologia correcta.
 - **Desarrollo Web**.
-- **Bases de datos** con `MySQL` usando. 
+- **Bases de datos** con `MySQL` usando MySQL Workbench. 
 
 Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, así como un modelo de arquitectura. Este proyecto es realizado mediante la materia de **Fundametos de Ingenieria de Software**. 
 
