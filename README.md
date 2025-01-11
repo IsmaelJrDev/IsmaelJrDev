@@ -11,7 +11,7 @@ Actualmente me encuentro aprendiendo:
 - **Desarrollo Web**.
 - **Bases de datos** con `MySQL` usando las herraminetas de MySQL Workbench y Navicat. 
 - **Desarrollo de API's**con `Flask` y `Fast`
-- **Microservicios** de la mano de `Docker` y `Python`
+- **Microservicios** de la mano de `Docker` y `Python` 
 
 Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, así como un modelo de arquitectura. Este proyecto es realizado mediante la materia de **Fundametos de Ingenieria de Software**. 
 
