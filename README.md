@@ -22,7 +22,7 @@ De igual manera participo de manera activa en un software para una papaeleria, c
 
 ###
 
-<h2 align="center">Lenguajes de Programación:</h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
