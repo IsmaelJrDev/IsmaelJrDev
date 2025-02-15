@@ -30,4 +30,11 @@ De igual manera participo de manera activa en un software para una papaeleria, c
 ---
 [![](https://visitcount.itsvg.in/api?id=IsmaelJrDev&icon=5&color=5)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )  -->
