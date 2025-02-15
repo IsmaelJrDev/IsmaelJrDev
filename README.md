@@ -83,7 +83,6 @@ De igual manera participo de manera activa en un software para una papaeleria, c
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -127,8 +126,3 @@ De igual manera participo de manera activa en un software para una papaeleria, c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelJrDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/IsmaelJrDev/IsmaelJrDev/output/snake.svg" alt="Snake animation" />
-
-###
