@@ -8,7 +8,7 @@ Actualmente me encuentro aprendiendo:
 - **Gestión y Administración de Redes** (principalmente linux).
 - **Fundamentos de la Ingenieria de Software**.
 - **Creación de un compilador** desarrollando consigo un nuevo *lenguaje de programación*, de igual manera llevar la metododologia correcta.
-- **Desarrollo Web**.
+- **Desarrollo Web** con Frameworks, como REACT.
 - **Bases de datos** con `MySQL` usando las herraminetas de MySQL Workbench y Navicat. 
 - **Desarrollo de API's**con `Flask` y `Fast`
 - **Microservicios** de la mano de `Docker` y `Python` 
