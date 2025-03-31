@@ -12,7 +12,7 @@ Actualmente me encuentro aprendiendo:
 - **Desarrollo de API's**con `Flask`.
 - **Microservicios** de la mano de `Docker` y `Python`
 
-Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, así como un modelo de arquitectura. Este proyecto es realizado mediante la materia de **Fundametos de Ingenieria de Software**. 
+Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado mediante un procedimiento y bajo la Norma IEEE, así como un modelo de arquitectura. Este proyecto es realizado mediante la materia de **Fundametos de Ingenieria de Software**. 
 
 De igual manera participo de manera activa en un software para una papaeleria, con gestionamineto de Bases de datoas, backend y frontend, asi como su diseño y su despliegue (`deployment`) en el ámbito productivo.
 
