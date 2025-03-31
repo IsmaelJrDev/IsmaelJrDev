@@ -5,13 +5,12 @@ Aquí en mi perfil de GitHub, encontrarás varios proyectos en los que estoy tra
 
 Actualmente me encuentro aprendiendo: 
 - **Machine Learning** (python con librerias como `numpy`, `pandas`, `matplotlib`,etc).
-- **Gestión y Administración de Redes** (principalmente linux).
-- **Fundamentos de la Ingenieria de Software**.
-- **Creación de un compilador** desarrollando consigo un nuevo *lenguaje de programación*, de igual manera llevar la metododologia correcta.
-- **Desarrollo Web** con Frameworks, como REACT.
-- **Bases de datos** con `MySQL` usando las herraminetas de MySQL Workbench y Navicat. 
-- **Desarrollo de API's**con `Flask` y `Fast`
-- **Microservicios** de la mano de `Docker` y `Python` 
+- **Computo en la Nube con AWS** (principalmente instancias linux).
+- **Ingenieria de Software** con el desarrollo de un Punto de Venta para un cliente real.
+- **Desarrollo Web** con Frameworks, como REACT, Node.js, MongoDB, Express.
+- **Bases de datos** con `SQL Server`. 
+- **Desarrollo de API's**con `Flask`.
+- **Microservicios** de la mano de `Docker` y `Python`
 
 Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado bajo una metodología o marcó de trabajo, así como un modelo de arquitectura. Este proyecto es realizado mediante la materia de **Fundametos de Ingenieria de Software**. 
 
