@@ -9,7 +9,7 @@ Actualmente me encuentro aprendiendo:
 - **Ingenieria de Software** con el desarrollo de un Punto de Venta para un cliente real.
 - **Desarrollo Web** con Frameworks, como REACT, Node.js, MongoDB, Express.
 - **Bases de datos** con `SQL Server`. 
-- **Desarrollo de API's**con `Flask`.
+- **Desarrollo de API's** con `Flask`.
 - **Microservicios** de la mano de `Docker` y `Python`
 
 Actualmente me encuentro en el proceso de desarrollo de un software el cual tiene como objetivo solucionar una problematica del mundo real, ya que esta dirigida a un cliente real, esto realizado mediante un procedimiento y bajo la Norma IEEE, así como un modelo de arquitectura, y diagramas necesarios para su desarrollo. Este proyecto es realizado mediante la materia de **Ingenieria de Software**. 
