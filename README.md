@@ -1,14 +1,22 @@
-# 💻 Ismael Bibiano Martínez 
-**Técnico en Programación**   
-📍 Colegio de Estudios Cientifícos y Tecnológicos del Estado de México (2019 - 2022) 
+# Hola 👋, Soy Ismael Bibiano Martinez
 
-**Estudiante de Ingeniería en Sistemas Computacionales**  
-📍 Tecnológico de Estudios Superiores de Jilotepec  (Actual)  
+**Técnico en Programación**
 
-Apasionado por el desarrollo de software con enfoque en soluciones reales. Combinando formación académica con aprendizaje autodidacta para crear proyectos innovadores.
+📍 Colegio de Estudios Cientifícos y Tecnológicos del Estado de México (2019 - 2022)
 
-## 🚀 Habilidades Técnicas
+**Estudiante de Ingeniería en Sistemas Computacionales**
 
+📍 Tecnológico de Estudios Superiores de Jilotepec (2022 - Actual)
+
+Estudiante de Ingeniería en Sistemas Computacionales, apasionado por la IA Automatización, el desarrollo de Software y el mundo DevOps. Combinando formación académica con aprendizaje autodidacta para crear proyectos innovadores.
+
+## 👤 Sobre Mí
+
+Estudiante de Ingeniería en Sistemas Computacionales, apasionado por la Automatización con IA, el desarrollo de Software y el mundo DevOps. Combinando formación académica con aprendizaje autodidacta para crear proyectos innovadores.
+
+Me considero una persona con pensamiento critíco y razonable, capaz y con una mentalidad fuerte. Me suelo adaptar a mi entorno y siempre estoy en costante aprendizaje de cosas nuevas.
+
+## 🛠️ Stack
 ### Frontend & Design
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -52,18 +60,22 @@ Apasionado por el desarrollo de software con enfoque en soluciones reales. Combi
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-## 🔍 En Aprendizaje
+
+## Actualmente Aprendiendo
+
 - Machine Learning (Scikit-learn, TensorFlow)
+- IA Generativa
 - Arquitectura de Microservicios
-- Desarrollo de APIs RESTful
-- Cloud Computing (AWS)
+- Desarrollo de APIs RESTfull
 - Ingeniería de Software (Norma IEEE)
+- Automatización con m8n
 
-## 📊 Estadísticas GitHub
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=IsmaelJrDev&show_icons=true&theme=dracula)](https://github.com/IsmaelJrDev)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelJrDev&layout=compact&theme=dracula)](https://github.com/IsmaelJrDev)
 
-## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](tu_enlace_linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tu_email)
 
+✉️ Contacto y Redes Sociales
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IsmaelJrDev&theme=github-dark-blue&hide_border=true&border_radius=4" alt="GitHub Streak">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsmaelJrDev&show_icons=true&locale=es&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+</p>
