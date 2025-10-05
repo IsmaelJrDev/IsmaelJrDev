@@ -8,7 +8,7 @@
 
 📍 Tecnológico de Estudios Superiores de Jilotepec (2022 - Actual)
 
-Estudiante de Ingeniería en Sistemas Computacionales, apasionado por la IA Automatización, el desarrollo de Software y el mundo DevOps. Combinando formación académica con aprendizaje autodidacta para crear proyectos innovadores.
+Estudiante de Ingeniería en Sistemas Computacionales, apasionado por la Automatización con IA, el desarrollo de Software y el mundo DevOps. Combinando formación académica con aprendizaje autodidacta para crear proyectos innovadores.
 
 ## 👤 Sobre Mí
 
