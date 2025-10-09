@@ -1,5 +1,7 @@
 # Hola 👋, Soy Ismael Bibiano Martinez
 
+<img src="src/Banner_Ismael_Jr_Cuerpo_Largo_2_Recortada.jpg">
+
 **Técnico en Programación**
 
 📍 Colegio de Estudios Cientifícos y Tecnológicos del Estado de México (2019 - 2022)
@@ -24,7 +26,6 @@ Me considero una persona con pensamiento critíco y razonable, capaz y con una m
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 ### Backend & APIs
@@ -33,7 +34,6 @@ Me considero una persona con pensamiento critíco y razonable, capaz y con una m
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
@@ -66,13 +66,16 @@ Me considero una persona con pensamiento critíco y razonable, capaz y con una m
 - Machine Learning (Scikit-learn, TensorFlow)
 - IA Generativa
 - Arquitectura de Microservicios
+- TypeScript
+- Nest.js
+- Automatización con n8n
 - Desarrollo de APIs RESTfull
-- Ingeniería de Software (Norma IEEE)
-- Automatización con m8n
 
 
 
 ✉️ Contacto y Redes Sociales
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IsmaelJrDev&theme=github-dark-blue&hide_border=true&border_radius=4" alt="GitHub Streak">
 </p>
