@@ -63,13 +63,11 @@ Me considero una persona con pensamiento critíco y razonable, capaz y con una m
 
 ## Actualmente Aprendiendo
 
-- Machine Learning (Scikit-learn, TensorFlow)
 - IA Generativa
 - Arquitectura de Microservicios
-- TypeScript
 - Nest.js
 - Automatización con n8n
-- Desarrollo de APIs RESTfull
+- Desarrollo de APIs REST Full
 
 
 
