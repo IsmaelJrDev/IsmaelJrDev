@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Estudiante de 8° semestre de Ingeniería en Sistemas Computacionales. Me especializo en backend, arquitectura de microservicios y sistemas distribuidos. Aprendo construyendo — cada proyecto en este perfil resuelve un problema real.
+Estudiante de 8° semestre de Ingeniería en Sistemas Computacionales. Me especializo en backend, arquitectura de microservicios y sistemas distribuidos.
 
 Actualmente profundizando en: **Nest.js** · **Sistemas Distribuidos** · **IA Generativa** · **Automatización con n8n**
 
