@@ -106,7 +106,7 @@ Actualmente profundizando en: **Nest.js** · **Sistemas Distribuidos** · **IA G
       <td>🔨 En desarrollo</td>
     </tr>
     <tr>
-      <td><a href="https://ismaelbibianodev.vercel.app/"><strong>API Detección de Malware</strong></a></td>
+      <td><a href="https://github.com/IsmaelJrDev/API_RandomForest.git"><strong>API Detección de Malware</strong></a></td>
       <td>Clasificación de tráfico de red con Random Forest. Pipeline completo + endpoints REST.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -117,7 +117,7 @@ Actualmente profundizando en: **Nest.js** · **Sistemas Distribuidos** · **IA G
       <td>✅ Completado</td>
     </tr>
     <tr>
-      <td><a href="https://ismaelbibianodev.vercel.app/"><strong>API Detección de Cáncer de Piel</strong></a></td>
+      <td><a href="https://github.com/IsmaelJrDev/API_Skin_Cancer.git"><strong>API Detección de Cáncer de Piel</strong></a></td>
       <td>Clasificación de imágenes dermatológicas. Endpoints para subir imágenes y obtener diagnóstico.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -127,7 +127,7 @@ Actualmente profundizando en: **Nest.js** · **Sistemas Distribuidos** · **IA G
       <td>✅ Completado</td>
     </tr>
     <tr>
-      <td><a href="https://ismaelbibianodev.vercel.app/"><strong>API Transformación de Imágenes</strong></a></td>
+      <td><a href="https://github.com/IsmaelJrDev/API_Transformacion_Imagenes.git"><strong>API Transformación de Imágenes</strong></a></td>
       <td>Rotación, traslación, cizallamiento y detección de bordes con Filtro Sobel vía álgebra lineal.</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
