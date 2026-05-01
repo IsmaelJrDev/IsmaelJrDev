@@ -98,8 +98,12 @@ Actualmente profundizando en: **Sistemas Distribuidos** · **Microservicios** ·
       <td>Plataforma tipo Pinterest sobre arquitectura distribuida. Enfocada en escalabilidad horizontal.</td>
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </td>
-      <td>🔨 En desarrollo</td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+              </td>
+      <td>✅ Completado</td>
     </tr>
     <tr>
       <td><a href="https://github.com/IsmaelJrDev/API_RandomForest.git"><strong>API Detección de Malware</strong></a></td>
