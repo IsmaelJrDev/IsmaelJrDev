@@ -153,26 +153,6 @@ Actualmente profundizando en: **Sistemas Distribuidos** · **Microservicios** ·
   </tbody>
 </table>
 
----
-
-## 🏗️ Arquitecturas que he implementado
-
-```
-DocFlow — Pipeline distribuido de IA (offline)
-┌─────────────┐    ┌──────────────┐    ┌──────────────────────────────┐
-│   Cliente   │───▶│  Nginx (GW)  │───▶│  Auth · User · Doc Services  │
-└─────────────┘    └──────────────┘    └──────────────┬───────────────┘
-                                                       │
-                          ┌────────────────────────────┼──────────────────┐
-                          ▼                            ▼                  ▼
-                   llama3 (análisis)         mistral (resumen)    phi3 (clasificación)
-                          └────────────────────────────┼──────────────────┘
-                                                       ▼
-                                           MongoDB Replica Set (x3)
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
