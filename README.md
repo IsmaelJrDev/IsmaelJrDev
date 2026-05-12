@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Estudiante de 8° semestre de Ingeniería en Sistemas Computacionales en TecNM / TESJI. Me especializo en desarrollo backend, arquitectura de microservicios y sistemas distribuidos. Construyo software orientado a resolver problemas reales de negocio — desde sistemas en producción hasta pipelines de IA distribuidos 100% offline.
+Estudiante de 8° semestre de Ingeniería en Sistemas Computacionales en TESJI. Me especializo en desarrollo backend, arquitectura de microservicios y sistemas distribuidos. Construyo software orientado a resolver problemas reales de negocio.
 
 Actualmente profundizando en: **Sistemas Distribuidos** · **Microservicios** · **Automatización con n8n** · **AWS**
 
