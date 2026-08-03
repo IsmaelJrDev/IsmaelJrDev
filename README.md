@@ -7,7 +7,7 @@
 # Ismael Bibiano Martínez
 
 **Desarrollador Backend · Microservicios & Sistemas Distribuidos**
-**Ingeniero en Sistemas Computacionales — TESJI, TecNM (8° Semestre)**
+**Ingeniero en Sistemas Computacionales — TESJI (8° Semestre)**
 
 <br/>
 
@@ -135,18 +135,6 @@ Punto de venta desarrollado desde cero. Automatiza inventario, registra ventas, 
     </td>
   </tr>
 </table>
-
----
-
-## 📐 Principios de Ingeniería
-
-```
-· SOLID                          · CAP Theorem awareness
-· Clean Code                     · Consistencia eventual vs. fuerte
-· Eight Fallacies of             · Database-per-Service pattern
-  Distributed Computing          · ADR (Architecture Decision Records)
-· Zero Trust Security            · Git Flow + Conventional Commits
-```
 
 ---
 
