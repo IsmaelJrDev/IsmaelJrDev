@@ -7,7 +7,7 @@
 # Ismael Bibiano Martínez
 
 **Desarrollador Backend · Microservicios & Sistemas Distribuidos**
-**Ingeniero en Sistemas Computacionales — TESJI (8° Semestre)**
+**Ingeniero en Sistemas Computacionales — TESJI (9° Semestre)**
 
 <br/>
 
